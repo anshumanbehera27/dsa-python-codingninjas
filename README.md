@@ -1,2 +1,2 @@
 # dsa-python-codingninjas
-solution 
+solution with explation 
